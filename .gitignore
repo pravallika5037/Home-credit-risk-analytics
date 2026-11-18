@@ -4,3 +4,5 @@ __pycache__/
 venv/
 env/
 .streamlit/secrets.toml
+project/data/application_train.csv
+project/data/bureau.csv
